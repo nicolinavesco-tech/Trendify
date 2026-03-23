@@ -233,7 +233,6 @@ header .overlay {
     }
 
     .all-text-and-button{
-        background: green;
         min-width: 350px;
         height: 400px;
         justify-content: center;
